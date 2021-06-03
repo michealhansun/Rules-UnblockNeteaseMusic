@@ -47,7 +47,7 @@ rules:
   - DOMAIN,iadmusicmatvideo.music.126.net,REJECT
 
   # Netease Music
-  #- RULE-SET,NeteaseMusic,🎵 网易云音乐
+  - RULE-SET,NeteaseMusic,🎵 网易云音乐
 
   # Final
   - MATCH,DIRECT
