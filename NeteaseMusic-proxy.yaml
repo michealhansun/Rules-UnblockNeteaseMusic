@@ -4,4 +4,4 @@ proxies:
     server: 588906.tk
     port: 3201
     cipher: aes-128-gcm
-    password: 222222
+    password: 111111
