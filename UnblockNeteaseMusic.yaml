@@ -17,7 +17,7 @@ proxy-providers:
   NeteaseMusic:
     type: http
     path: ./Proxy/NeteaseMusic-proxy.yaml
-    url: https://github.com/michealhansun/Rules-UnblockNeteaseMusic/raw/main/NeteaseMusic-proxy.yaml
+    url: https://od.lk/s/MzJfMTUzNjI0ODdf/NeteaseMusic-proxy.yaml
     interval: 3600
     health-check:
       enable: true
